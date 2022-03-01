@@ -13,5 +13,5 @@ def square (nombre):
 # main
 print(square(5))
 #  les listes
-alphabet=['a','b','c','d']
+alphabet=['a','b','c']
 print(alphabet[-1])
